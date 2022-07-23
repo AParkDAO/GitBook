@@ -1,0 +1,9 @@
+# DAO
+
+## Contribute
+
+ApeParkDAO aims to create a global economic organization with community autonomy at the same time. It cannot be a centrally planned economy or a minority oligopoly. We tend to decentralize structures while believing in the unique attributes of DAO, which is superior to centralized organizations in the long run. We want to create a safe and inclusive platform that unlocks the greatest potential for all.
+
+ApeParkDAO encourages long-term user involvement. We believe that DAO can transcend today's economic structure as a model for how the economy will operate in the future. Therefore, we will consider the long-term impact of our decision on ApeParkDAO. Our decisions are well thought out, and when faced with tough tradeoffs, we conduct a DAO community vote.
+
+ApeParkDAO exists to support projects that bring value to the APD economy. This means that we have the ultimate goal of articulating our vision, goals, and roadmap. We are decentralized but organized. In practice, this means that we have sufficient frameworks to adjust contributors, establish accountability and ensure successful implementation. We do this by defining a vision, setting clear goals, and communicating a roadmap. We portray the future vision of ApeParkDAO, and the goals and OKR define the implementation steps for that vision. High-level goals should be set by teams (technology, products, partners, communities, etc.) and discussed with other teams. The consistency of quarterly goals sets goals that everyone can execute. The roadmap defines how DAO will achieve its goals. The roadmap is not fixed. Instead, it aims to drive accountability for projects and teams, increase visibility to the wider community and outsiders, and ensure consistency among teams. The roadmap is changeable because each project is supported by community members.
