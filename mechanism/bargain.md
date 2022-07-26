@@ -10,6 +10,3 @@ Bargain is a proactive and short-term strategy. The price discovery mechanism of
 
 Bargain sales allow ApeParkDAO to accumulate liquidity owned by the agreement itself. We call the agreement liquidity POL. More POLs ensure that sufficient funds are always locked in Cave, which is used in transaction pools to facilitate market operations and protect token holders. ApeParkDAO has its marketplace that not only gives investors additional protection but also agreements to accumulate more revenue from liquidity provider rewards (LP rewards) to support the Cave.
 
-## Locked edits
-
-The alternative to a live edit mode is called **locked edits**. Spaces that are locked for live edits aren't directly editable, and any edits you need to make must be handled through **change requests**. You can lock a space using the space menu and selecting 'Lock live edits'.
