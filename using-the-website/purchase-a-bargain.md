@@ -21,7 +21,7 @@ For both types of Bargains, it is a one-click transaction as the user is require
 * **Market Price** is the market price of APD.
 * **You Will Get** tells you how many APD you will get from Bargain.
 * **Debt Ratio** measures the total amount of APD created from Bargains that have yet to be paid out by the protocol.
-* **Vesting Term** measures the period a Bargain takes to fully redeem. This number is in BNB Chain blocks. 540,000 blocks are approximately 5 days or 15 epochs.
+* **Vesting Term** measures the period a Bargain takes to fully redeem. This number is in BNB Chain blocks. 1,512,000 blocks are approximately 14 days or 42 epochs.
 * **Discount** is the difference between the Bargain price and the market price.
 * **Pending Rewards** is the amount of APD you are entitled to receive from Bargain.
 * **Claimable Rewards** is the amount of APD you can claim now. This amount keeps increasing as APD is vested linearly to you over the Bargain period.
