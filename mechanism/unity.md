@@ -12,4 +12,4 @@ When you are Unity, Your APD will be locked and get the same number of uAPDs. Yo
 
 When you cancel Unity, you will destroy the uAPD and receive the same number of APDs, canceling Unity means that the user will be disqualified from receiving rewards. It must be noted that the number of rewards available depends only on the number of Unity; The remaining uAPD (If any) will continue to receive rewards.
 
-It takes 6 epochs to cancel Unity, which is called the vesting term. During this term, APD tokens were locked by Unity as payments to Bargain participants. After the vesting term expires, Unity users can claim the full amount of APDs.
+It takes 6 epochs to cancel Unity, which is called the vesting term. During this term, participants' uAPD tokens are locked by Unity. After the vesting term expires, Unity users can claim the full amount of APDs.
