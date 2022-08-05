@@ -2,7 +2,7 @@
 
 ## What is Bargain?
 
-
+![](../.gitbook/assets/Bargain.jpg)
 
 Bargain is the second strategy of ApeParkDAO revenue maximization. Selling Bargain through Bargain to obtain the liquidity and other reserve assets owned by the protocol itself. The agreement announces quotations and terms to Bargain users, such as Bargain price, how many APDs can be purchased by Bargain users and the period of the award. Before the award period expires, Bargain users can claim some of the reward (APD tokens) first, and then they can claim the full amount when it expires.
 

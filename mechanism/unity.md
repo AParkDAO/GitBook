@@ -2,6 +2,8 @@
 
 ## What is Unity?
 
+![](../.gitbook/assets/Unity.jpg)
+
 Unity is an option for ApeParkDAO revenue maximization. Unity users have their APDs on the ApeParkDAO page Unity for earning rewards. Rebase Rewards are issued from Bargain sales and vary according to the number of uAPDs (Unity APD) in the protocol.
 
 Unity is a passive and long-term strategy. Your uAPD will gradually increase and your cost base will continue to decline. In other words, even if the market price drops below the price you buy, when most users take the APD they buy to Unity, and Unity is long enough, your uAPD balance will grow faster than the price drop.
