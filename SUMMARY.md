@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Language](README.md)
+  * [简体中文](https://app.gitbook.com/o/hf3kyl9SLAlYaoPghO4D/s/3pvKcGpekLPehLJKTAAD/jian-jie)
+
 ## Basics
 
-* [Basics](README.md)
+* [Basics](<README (1).md>)
 * [FAQ](basics/faq.md)
 * [IDO](basics/ido.md)
 * [DAO](basics/dao.md)
