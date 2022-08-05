@@ -1,6 +1,6 @@
 # Purchase A Bargain
 
-Bargain allow users to buy APD from the protocol at a discount by trading it with i) liquidity (LP tokens) or ii) other assets. The former is called Liquidity Bargain and the latter Reserve Bargain. Bargain take roughly 15 epochs to vest, and APD tokens are vested linearly to the user over that period. Liquidity Bargain help the protocol to accumulate and lock liquidity, while Reserve Bargain allow the protocol to grow its Cave, and thus its RFV faster.
+Bargain allow users to buy APD from the protocol at a discount by trading it with i) liquidity (LP tokens) or ii) other assets. The former is called Liquidity Bargain and the latter Reserve Bargain. Bargain take roughly 42 epochs to vest, and APD tokens are vested linearly to the user over that period. Liquidity Bargain help the protocol to accumulate and lock liquidity, while Reserve Bargain allow the protocol to grow its Cave, and thus its RFV faster.
 
 ApeParkDAO offers two types of Bargains on its website: USDT and APD-USDT LP Bargain.
 
