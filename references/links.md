@@ -1,14 +1,11 @@
 # Links
 
-To be updated…
+* To be updated…
 
-If our values align with yours, reach out to us on our Discord，we look forward to your contribution.
+If our values align with yours, reach out to us on our Telegram，we look forward to your contribution.
 
-\
+* Official website ：[https://apepark.money/](https://apepark.money/)
+* Twitter ：​[https://twitter.com/ApePark\_DAO](https://twitter.com/ApePark\_DAO)
+* Telegarm : [https://t.me/ApeParkDAO](https://t.me/ApeParkDAO)
+* Medium : [https://medium.com/@ApePark/list/apeparkdao-0749c9a3f42a](https://medium.com/@ApePark/list/apeparkdao-0749c9a3f42a)
 
-
-Discord：
-
-Twitter：​
-
-Official website：
