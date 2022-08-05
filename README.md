@@ -2,7 +2,7 @@
 
 ## What is the ApeParkDAO?
 
-![](<.gitbook/assets/Youtube Banner.jpg>)
+{% embed url="https://youtu.be/p-EMExQ4p6Y" %}
 
 ApeParkDAO is building an unprecedented Metavese ecosystem. With GameFi + NFT as the core, it builds the underlying economic base for the game on the platform, provides credible transaction certificates. The ApeParkDAO project attracts top experts in the fields of gaming, finance, blockchain, etc. Their project experience and research results are the cornerstones of the success of this project, injecting strong technical genes into the platform. We can not only help traditional game manufacturers to transform and upgrade to Web3.0, but also provide a variety of services as professional on-chain service generation operations and traffic support to realize the full value of the chain game ecosystem.
 
