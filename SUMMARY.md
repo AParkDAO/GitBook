@@ -1,8 +1,12 @@
 # Table of contents
 
+* [Page 1](README.md)
+  * [Page 2](page-1/page-2.md)
+  * [简体中文](https://apeparkdao.gitbook.io/untitled/)
+
 ## Basics
 
-* [Basics](README.md)
+* [Basics](<README (1).md>)
 * [FAQ](basics/faq.md)
 * [IDO](basics/ido.md)
 * [DAO](basics/dao.md)
