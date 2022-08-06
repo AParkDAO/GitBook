@@ -1,6 +1,6 @@
-# Bouns
+# Bonus
 
-## What is Bouns?
+## What is Bonus?
 
 ![](../.gitbook/assets/Bonus.jpg)
 

@@ -17,7 +17,7 @@
 * [SellFee](mechanism/sellfee.md)
 * [Doughnut](mechanism/doughnut.md)
 * [ER(Enforce Rich)](mechanism/er-enforce-rich.md)
-* [Bouns](mechanism/bouns.md)
+* [Bonus](mechanism/bonus.md)
 
 ## USING THE WEBSITE
 
