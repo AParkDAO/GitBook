@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Language](README.md)
-  * [简体中文](https://apeparkdao.gitbook.io/zh/)
 
 ## Basics
 
