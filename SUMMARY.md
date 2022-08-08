@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Language](README.md)
-  * [简体中文](https://app.gitbook.com/o/hf3kyl9SLAlYaoPghO4D/s/3pvKcGpekLPehLJKTAAD/jian-jie)
+  * [简体中文](https://apeparkdao.gitbook.io/zh/)
 
 ## Basics
 
