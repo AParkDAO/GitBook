@@ -1,5 +1,4 @@
 # Languages
 
-* [中文](zh/)https://apeparkdao.gitbook.io/zh/
+* [中文](zh/)https://github.com/ApeParkDAO/Gitbook-ch.git
 * [English](en/)
-* [French](fr/)
