@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Languages](README.md)
+  * [简体中文](https://apeparkdao.gitbook.io/jian-ti-zhong-wen/)
+
 ## Basics
 
-* [Basics](README.md)
+* [Basics](<README (1).md>)
 * [FAQ](basics/faq.md)
 * [IDO](basics/ido.md)
 * [DAO](basics/dao.md)
