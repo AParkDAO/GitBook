@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Languages](README.md)
-
 ## Basics
 
-* [Basics](<README (1).md>)
+* [Basics](README.md)
 * [FAQ](basics/faq.md)
 * [IDO](basics/ido.md)
 * [DAO](basics/dao.md)
