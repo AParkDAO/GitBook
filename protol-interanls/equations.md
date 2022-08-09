@@ -6,7 +6,7 @@
 
 The swap between APD and uAPD is always cashed out at 1:1.
 
-![](../.gitbook/assets/9.jpg)
+![](<../.gitbook/assets/9 (1).jpg>)
 
 The reserve will not require the return of uAPD when depositing profits, which will cause an imbalance. The rebase uAPD is to correct the imbalance between the outstanding deposits of APD and uAPD. This rebase allows the outstanding return of uAPD to ensure that uAPD is equal to a APD.
 

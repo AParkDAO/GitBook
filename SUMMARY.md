@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Languages](README.md)
-* [基本](ji-ben.md)
+* [简体中文](jian-ti-zhong-wen.md)
 
 ## Basics
 
