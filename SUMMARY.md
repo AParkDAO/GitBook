@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Languages](README.md)
-* [简体中文](jian-ti-zhong-wen.md)
 
 ## Basics
 
