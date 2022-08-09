@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Languages](README.md)
-  * [简体中文](https://apeparkdao.gitbook.io/jian-ti-zhong-wen/)
+* [基本](ji-ben.md)
 
 ## Basics
 
