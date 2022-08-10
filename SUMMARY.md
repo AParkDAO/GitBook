@@ -1,11 +1,8 @@
 # Table of contents
 
-* [Languages](README.md)
-  * [简体中文](readme/jian-ti-zhong-wen.md)
-
 ## Basics
 
-* [Basics](<README (1).md>)
+* [Basics](README.md)
 * [FAQ](basics/faq.md)
 * [IDO](basics/ido.md)
 * [DAO](basics/dao.md)
