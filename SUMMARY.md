@@ -2,19 +2,19 @@
 
 ## Basics
 
-* [Basics](README.md)
-* [FAQ](basics/faq.md)
-* [IDO](basics/ido.md)
-* [DAO](basics/dao.md)
+* [🔮 Basics](README.md)
+* [💡 FAQ](basics/faq.md)
+* [🌠 IDO](basics/ido.md)
+* [🏡 DAO](basics/dao.md)
 
 ## Mechanism
 
-* [Unity](mechanism/unity.md)
-* [Bargain](mechanism/bargain.md)
-* [SellFee](mechanism/sellfee.md)
-* [Doughnut](mechanism/doughnut.md)
-* [ER(Enforce Rich)](mechanism/er-enforce-rich.md)
-* [Bonus](mechanism/bonus.md)
+* [🔒 Unity](mechanism/unity.md)
+* [🛎 Bargain](mechanism/bargain.md)
+* [🪙 SellFee](mechanism/sellfee.md)
+* [🍩 Doughnut](mechanism/doughnut.md)
+* [⚜ ER(Enforce Rich)](mechanism/er-enforce-rich.md)
+* [🥇 Bonus](mechanism/bonus.md)
 
 ## USING THE WEBSITE
 
