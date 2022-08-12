@@ -6,7 +6,7 @@ ApeParkDAO IDO is raising a total of $500,000 USDT at $5 per APD.
 
 ## How will our IDO be conducted？
 
-Whitelisted participants can access IDO within 24 hours. They can only buy APDs worth 500 USDT. Participants of IDO will receive alpha APD tokens, which they can exchange for APD at a ratio of 1:1 after the tokens are listed. The date of IDO and token listing is to be announced later.
+Whitelisted participants can access IDO within 6 hours. They can only buy APDs worth 500 USDT. Participants of IDO will receive alpha APD tokens, which they can exchange for APD at a ratio of 1:1 after the tokens are listed. The date of IDO and token listing is to be announced later.
 
 ## Where will go the raised funds？
 
