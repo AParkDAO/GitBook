@@ -1,4 +1,4 @@
-# DAO
+# 🏡 DAO
 
 ## DAO Allocation
 
@@ -10,9 +10,9 @@ Doughnut 15%
 
 Buyback and Burn 15%
 
-Technology Development 15%
+Community Operations15%
 
-Community Operations 10%
+Technology Development 10%
 
 KOL Cooperation 5%
 
