@@ -1,4 +1,4 @@
-# Bargain
+# 🛎 Bargain
 
 ## What is Bargain?
 

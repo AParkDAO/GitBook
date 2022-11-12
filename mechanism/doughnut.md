@@ -1,4 +1,4 @@
-# Doughnut
+# 🍩 Doughnut
 
 ## What is Doughnut?
 

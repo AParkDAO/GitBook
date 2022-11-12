@@ -1,4 +1,4 @@
-# SellFee
+# 🪙 SellFee
 
 ## What is SellFee?
 

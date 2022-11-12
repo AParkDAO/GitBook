@@ -1,4 +1,4 @@
-# ER(Enforce Rich)
+# ⚜ ER(Enforce Rich)
 
 ## What is ER(Enforce Rich)?
 

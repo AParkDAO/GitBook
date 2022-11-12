@@ -1,4 +1,4 @@
-# FAQ
+# 💡 FAQ
 
 ## Why do we need ApeParkDAO in the first place?
 
